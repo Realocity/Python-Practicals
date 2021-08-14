@@ -1,5 +1,5 @@
 # Name : Shubham Sapkal Roll No. : 2012118
-# Write a recursive function to calculate the sum of numbers from 0 to 10
+# Write a Python script to display the various Date Time formats.
 '''
 a) Current date and time 
 b) Current year 
