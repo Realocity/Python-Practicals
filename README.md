@@ -126,6 +126,7 @@ then a more verbose help message will be printed:
 
 **Congratulations, now you should be able
 to download and run a Python program on your own!**
+</details>
 
 <details>
   <summary>:zap: Lab Contents</summary>
@@ -155,28 +156,27 @@ to download and run a Python program on your own!**
 - 10. [Write a Python program to count the number of characters (character frequency) in a string.](https://github.com/Realocity/Python-Practicals/blob/main/Practical%202/Q10.py)
 
 - 11. [Write a Python script to add a key to a dictionary.
- Sample Dictionary : {0: 10, 1: 20}
- Expected Result : {0: 10, 1: 20, 2: 30}](https://github.com/Realocity/Python-Practicals/blob/main/Practical%203/Q11.py)
+Sample Dictionary : {0: 10, 1: 20}
+Expected Result : {0: 10, 1: 20, 2: 30}](https://github.com/Realocity/Python-Practicals/blob/main/Practical%203/Q11.py)
 
 - 12. [Write a Python script to concatenate following dictionaries to create a new one.
- dic1={1:10, 2:20}
- dic2={3:30, 4:40}
- dic3={5:50,6:60}
- Expected Result : {1: 10, 2: 20, 3: 30, 4: 40, 5: 50, 6: 60}](https://github.com/Realocity/Python-Practicals/blob/main/Practical%203/Q12.py)
+dic1={1:10, 2:20}
+dic2={3:30, 4:40}
+dic3={5:50,6:60}
+Expected Result : {1: 10, 2: 20, 3: 30, 4: 40, 5: 50, 6: 60}](https://github.com/Realocity/Python-Practicals/blob/main/Practical%203/Q12.py)
 
 - 13. [Write a Python script to check if a given key already exists in a dictionary.](https://github.com/Realocity/Python-Practicals/blob/main/Practical%203/Q13.py)
   
 - 14. [Write a Python script to generate and print a dictionary that contains a number (between 1 and n) 
- in the form (x, x*x).
- Sample Dictionary ( n = 5) :
- Expected Output : {1: 1, 2: 4, 3: 9, 4: 16, 5: 25}.](https://github.com/Realocity/Python-Practicals/blob/main/Practical%203/Q14.py)
+in the form (x, x*x).
+Sample Dictionary ( n = 5) :
+Expected Output : {1: 1, 2: 4, 3: 9, 4: 16, 5: 25}.](https://github.com/Realocity/Python-Practicals/blob/main/Practical%203/Q14.py)
   
 - 15. [Write a Python script to merge two Python dictionaries.](https://github.com/Realocity/Python-Practicals/blob/main/Practical%203/Q15.py)
   
 - 16. [Write a recursive function to calculate the sum of numbers from 0 to 10.](https://github.com/Realocity/Python-Practicals/blob/main/Practical%204/Q16.py)
   
 - 17. [Given a list slice it into 3 equal chunks and reverse each chunk .
-
 '''
 Original list [11, 45, 8, 23, 14, 12, 78, 45, 89]
 Chunk 1 [11, 45, 8]
@@ -187,7 +187,6 @@ Chunk 3 [78, 45, 89]
 After reversing it [89, 45, 78].](https://github.com/Realocity/Python-Practicals/blob/main/Practical%204/Q17.py)
   
 - 18. [Write a Python script to display the various Date Time formats.
-
 '''
 a) Current date and time 
 b) Current year 
